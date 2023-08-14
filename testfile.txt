@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added in Intellij
+=======
+Added in github
+>>>>>>> 4e33742df71ac3ddac47527f5efdadccfc4d7fca
